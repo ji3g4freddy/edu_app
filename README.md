@@ -13,16 +13,16 @@ User will start with Day1 with Level1, and $5.
 There are three options they can do in each day [1]Learn [2]Work [3]Gamble.
 
 Each action and its function
-1. Learn
+1.  Learn
 
-Player will spend $1 to increase level by 1 unit.
+    Player will spend $1 to increase level by 1 unit.
 
-2. Work
+2.  Work
 
-Player will earn the amount of money based on their level.
+    Player will earn the amount of money based on their level.
 
-3. Gamble
+3.  Gamble
 
-Player will play a dice game and guess the sum of the three dice will bigger or smaller than 11.
-Player can bet any amount of money they have, and guess big or small.
-If making the right guess, player can win the money they bet multiple by the level they are.
+    Player will play a dice game and guess the sum of the three dice will bigger or smaller than 11.
+    Player can bet any amount of money they have, and guess big or small.
+    If making the right guess, player can win the money they bet multiple by the level they are.
